@@ -2,7 +2,6 @@ import {Navbar, Container, Nav, Button} from "react-bootstrap";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faShoppingCart} from "@fortawesome/free-solid-svg-icons";
 import {useStateParams} from "../../ParamsContext";
-import {Link} from "react-router-dom";
 
 function Home() {
 	const {setScheme, scheme} = useStateParams();

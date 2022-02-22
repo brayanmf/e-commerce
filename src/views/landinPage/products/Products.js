@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import {Row, Col} from "react-bootstrap";
 
 import ModalComponent from "../../../components/modal/Modal";

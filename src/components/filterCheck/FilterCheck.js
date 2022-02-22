@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import {Form} from "react-bootstrap";
 import React from "react";
 import {useSearchParams} from "react-router-dom";
